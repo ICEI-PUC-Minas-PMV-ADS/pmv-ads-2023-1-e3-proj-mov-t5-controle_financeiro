@@ -4,7 +4,7 @@
 
 `DESENVOLVIMENTO DE UMA APLICAÇÃO MÓVEL EM UM AMBIENTE DE NEGÓCIOS`
 
-`TERCEIRO SEMESTRE - EIXO 03`
+`TERCEIRO SEMESTRE - EIXO-03 - TURMA-05 - 2023/1`
 
 # Introdução
 
@@ -54,7 +54,7 @@ Desta forma, o nosso público alvo são as pessoas que necessitam de algum auxí
 
 ## Orientador
 
-* Nome completo do professor 1
+* Diego Silva Caldeira Rocha
 
 ## Instruções de utilização
 

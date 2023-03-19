@@ -10,19 +10,19 @@ A definição exata do problema e os pontos mais relevantes a serem tratados nes
 |Motivações: | <ul><li>Possui problemas financeiros</li><li> Não consegue economizar para uma viagem de curto prazo</li></ul>|
 |Hobbies:|<ul><li>Pescar</li><li>Ir a shows</li></ul>|
 
-|João Carlos da Silva|<img src="Joao_Carlos_da_Silva.jpg" width="100">|
+|João Carlos da Silva|<img src="https://user-images.githubusercontent.com/103541634/226199366-afe82fac-df56-4654-844d-3788a5f6d0bb.png" width="100">|
 |---|---| 
 |Idade: 44 anos|Ocupação: Vendedor|
-|Motivações: | <ul><li>Possui dívidas e quer identifar onde pode reduzir seus gastos</li><li> <ul><li>Está tendo gastos maiores que sua renda </li><li>|
+|Motivações: | <ul><li>Possui dívidas e quer identifar onde pode reduzir seus gastos</li><li> Está tendo gastos maiores que sua renda</li></ul>|
 |Hobbies:|<ul><li>Viajar</li><li>Pescar</li></ul>|
 
-|Eduardo Navares|<img src="Eduardo_Navares.jpg" width="100">|
-|---|---| 
+|Eduardo Navares|<img src="https://user-images.githubusercontent.com/103541634/226199433-12d83718-cb3a-4554-9263-8e2fd5cd9b46.png" width="100">|
+|---|---|
 |Idade: 28 anos|Ocupação: Scrum Master|
-|Motivações: | <ul><li> Acredita que pode poupar mais</li><li> Desconhece as suas despesas</li><li>
+|Motivações:| <ul><li> Acredita que pode poupar mais</li><li> Desconhece as suas despesas</li></ul>|
 |Hobbies:|<ul><li>Jogar basquete</li><li>Ir ao parque</li></ul>|
 
-|Gil Costa|<img src="Gil_Costa.jpg" width="100">|
+|Gil Costa|<img src="https://user-images.githubusercontent.com/103541634/226199498-e2548029-8722-474f-82dc-aa64ade28273.png" width="100">|
 |---|---| 
 |Idade: 46 anos|Ocupação: Médico|
 |Motivações: | <ul><li>Possui vários gastos imprevisíveis</li><li> Deseja ter um controle sobre suas finanças pessoais</li></ul>|

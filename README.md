@@ -18,10 +18,10 @@ O problema deste trabalho depende da vontade do usuário de ter o interesse em  
 O projeto  vem com uma ideia de educação financeira e cuidado para si.
 
 
-Os problemas cotidianos para serem resolvidos são: 
+Os problemas cotidianos para serem resolvidos são:
 
--Incentivar o usuário a cadastrar receitas e despesas na aplicação
--Ser uma aplicação intuitiva e apelativa de ser usada
+- Incentivar o usuário a cadastrar receitas e despesas na aplicação
+- Ser uma aplicação intuitiva e apelativa de ser usada
 
 
 ## Objetivos

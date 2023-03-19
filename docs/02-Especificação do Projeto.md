@@ -73,64 +73,52 @@ Obs.: todas as informações para gerar os indicadores devem estar no diagrama d
 
 ## Requisitos
 
-As tabelas que se seguem apresentam os requisitos funcionais e não funcionais que detalham o escopo do projeto. Para determinar a prioridade de requisitos, aplicar uma técnica de priorização de requisitos e detalhar como a técnica foi aplicada.
+O escopo funcional do projeto é definido por meio dos requisitos funcionais que descrevem as possibilidades interação dos usuários, bem como os requisitos não funcionais que descrevem os aspectos que o sistema deverá apresentar de maneira geral. Estes requisitos são apresentados a seguir.
 
 ### Requisitos Funcionais
 
+A tabela a seguir apresenta os requisitos do projeto, identificando a prioridade em que os mesmos devem ser entregues.
+
 |ID    | Descrição do Requisito  | Prioridade |
 |------|-----------------------------------------|----|
-|RF-001| Permitir que o usuário cadastre tarefas | ALTA | 
-|RF-002| Emitir um relatório de tarefas no mês   | MÉDIA |
+| RF-001 | A aplicação deve apresentar a funcionalidade do usuário  adicionar custos/despesas individuais        | ALTA | 
+| RF-002 | A aplicação deve apresentar a funcionalidade do usuário  adicionar receitas individuais               | ALTA |
+| RF-003 | A aplicação deve apresentar a possibilidade do usuário  adicionar setores de despesas                 | ALTA |
+| RF-004 | A aplicação deve apresentar a possibilidade do usuário adicionar setores de receitas                  | ALTA |
+| RF-005 | A aplicação deve realizar a soma de todos setores de despesas de um lado da tela                      | ALTA |
+| RF-006 | A aplicação deve realizar a soma de todos setores de receitas de um lado da tela                      | ALTA |
+| RF-007 | A aplicação deve possuir uma área de login para que o usuário possa entrar na sua área de dados financeiros           | MÉDIA |
+| RF-008 | A aplicação deve possuir uma tela visual apresentando comparativos entre dias, meses e mais estatísticas sobre os dados apresentados | ALTA |
+| RF-009 | A aplicação deve possuir uma lupa para encontrar alguma receita ou despesa específica | MÉDIA |
+| RF-010 | A aplicação deve possuir a possibilidade de editar meses anteriores  | MÉDIA |
+| RF-011 | A aplicação deve possuir uma tela comparando todos os usuários da plataforma e suas despesas deixando em valores percentuais |BAIXA|
+
 
 ### Requisitos não Funcionais
 
+A tabela a seguir apresenta os requisitos não funcionais que o projeto deverá atender.
+
 |ID     | Descrição do Requisito  |Prioridade |
 |-------|-------------------------|----|
-|RNF-001| O sistema deve ser responsivo para rodar em um dispositivos móvel | MÉDIA | 
-|RNF-002| Deve processar requisições do usuário em no máximo 3s |  BAIXA | 
-
-Com base nas Histórias de Usuário, enumere os requisitos da sua solução. Classifique esses requisitos em dois grupos:
-
-- [Requisitos Funcionais
- (RF)](https://pt.wikipedia.org/wiki/Requisito_funcional):
- correspondem a uma funcionalidade que deve estar presente na
-  plataforma (ex: cadastro de usuário).
-- [Requisitos Não Funcionais
-  (RNF)](https://pt.wikipedia.org/wiki/Requisito_n%C3%A3o_funcional):
-  correspondem a uma característica técnica, seja de usabilidade,
-  desempenho, confiabilidade, segurança ou outro (ex: suporte a
-  dispositivos iOS e Android).
-Lembre-se que cada requisito deve corresponder à uma e somente uma
-característica alvo da sua solução. Além disso, certifique-se de que
-todos os aspectos capturados nas Histórias de Usuário foram cobertos.
+|RNF-001| O site da aplicação deve ser responsivo | ALTA | 
+|RNF-002| O site da aplicação deve ser compatível com os principais celulares androids de última geração | ALTA | 
+|RNF-004| O site da aplicação deve utilixar a linguagem Javascript | ALTA |
+|RNF-005| O site da aplicação deve utilizar o banco de dados SQL | MÉDIA |
 
 ## Restrições
 
-O projeto está restrito pelos itens apresentados na tabela a seguir.
+As questões que limitam a execução desse projeto e que se configuram como obrigações claras para o desenvolvimento do projeto em questão são apresentadas na tabela a seguir. 
 
-|ID| Restrição                                             |
-|--|-------------------------------------------------------|
-|01| O projeto deverá ser entregue até o final do semestre |
-|02| Não pode ser desenvolvido um módulo de backend        |
-
-Enumere as restrições à sua solução. Lembre-se de que as restrições geralmente limitam a solução candidata.
-
-> **Links Úteis**:
-> - [O que são Requisitos Funcionais e Requisitos Não Funcionais?](https://codificar.com.br/requisitos-funcionais-nao-funcionais/)
-> - [O que são requisitos funcionais e requisitos não funcionais?](https://analisederequisitos.com.br/requisitos-funcionais-e-requisitos-nao-funcionais-o-que-sao/)
+|ID   | Restrição                                             |
+|-----|-------------------------------------------------------|
+|RE-01| O projeto deverá ser entregue no final do semestre, não podendo extrapolar a data de 05/06/2023 |
+|RE-02| A equipe não pode subcontratar uma empresa para ajudar a desenvolver o design do aplicativo |
+|RE-03| A equipe não pode subcontratar uma empresa para a criação do conteúdo do aplicativo |
+|RE-04| A aplicação só poderá ser lançado se os requisitos de funcionalidade e acessibilidade quando forem atendidas |
 
 ## Diagrama de Casos de Uso
 
-O diagrama de casos de uso é o próximo passo após a elicitação de requisitos, que utiliza um modelo gráfico e uma tabela com as descrições sucintas dos casos de uso e dos atores. Ele contempla a fronteira do sistema e o detalhamento dos requisitos funcionais com a indicação dos atores, casos de uso e seus relacionamentos. 
-
-As referências abaixo irão auxiliá-lo na geração do artefato “Diagrama de Casos de Uso”.
-
-> **Links Úteis**:
-> - [Criando Casos de Uso](https://www.ibm.com/docs/pt-br/elm/6.0?topic=requirements-creating-use-cases)
-> - [Como Criar Diagrama de Caso de Uso: Tutorial Passo a Passo](https://gitmind.com/pt/fazer-diagrama-de-caso-uso.html/)
-> - [Lucidchart](https://www.lucidchart.com/)
-> - [Astah](https://astah.net/)
-> - [Diagrams](https://app.diagrams.net/)
+![DiagramaCasoDeUso](https://user-images.githubusercontent.com/103541634/226203393-6135e0e8-2229-4eec-a2a7-b13c00c0437a.jpeg)
 
 # Matriz de Rastreabilidade
 

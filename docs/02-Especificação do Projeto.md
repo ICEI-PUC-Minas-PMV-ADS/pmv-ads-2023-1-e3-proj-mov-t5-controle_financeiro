@@ -4,7 +4,7 @@ A definição exata do problema e os pontos mais relevantes a serem tratados nes
 
 ## Personas
 
-|Maria Joana de Santos|<img src="Maria_Joana_da_Silva.jpg" width="100">|
+|Maria Joana de Santos|<img src="https://user-images.githubusercontent.com/103541634/226197214-dc553a84-73e6-4803-9af4-bbf9d08ab956.png" width="100">|
 |---|---| 
 |Idade: 32 anos|Ocupação: Chef de Cozinha|
 |Motivações: | <ul><li>Possui problemas financeiros</li><li> Não consegue economizar para uma viagem de curto prazo</li></ul>|

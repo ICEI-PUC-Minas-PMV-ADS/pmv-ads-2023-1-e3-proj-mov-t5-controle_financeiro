@@ -72,6 +72,7 @@ As ferramentas empregadas no projeto são:
 O editor de código foi escolhido porque Visual Studio Code ele possui uma integração com o sistema de versionamento. As ferramentas de comunicação utilizadas possuem integração semelhante e por isso foram selecionadas. Por fim, para criar diagramas, utilizamos essa ferramenta para melhor captar as necessidades da nossa solução.
 
 
+![grafico](https://user-images.githubusercontent.com/92383852/229385260-0a5d107b-3cce-4f55-a20c-8b3b8cf45a75.png)
 
 
 

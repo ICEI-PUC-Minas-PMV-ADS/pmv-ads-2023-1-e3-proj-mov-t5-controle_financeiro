@@ -9,28 +9,57 @@ Visão geral da interação do usuário pelas telas do sistema e protótipo inte
 
 ## Diagrama de Fluxo
 
-O diagrama apresenta o estudo do fluxo de interação do usuário com o sistema interativo e  muitas vezes sem a necessidade do desenho do design das telas da interface. Isso permite que o design das interações seja bem planejado e gere impacto na qualidade no design do wireframe interativo que será desenvolvido logo em seguida.
+O fluxo de usuário (User Flow) mostra como o será a navegação do usuário pelas páginas do App.
 
-O diagrama de fluxo pode ser desenvolvido com “boxes” que possuem internamente a indicação dos principais elementos de interface - tais como menus e acessos - e funcionalidades, tais como editar, pesquisar, filtrar, configurar - e a conexão entre esses boxes a partir do processo de interação. Você pode ver mais explicações e exemplos https://www.lucidchart.com/blog/how-to-make-a-user-flow-diagram.
+![Diagrama de Fluxo](https://user-images.githubusercontent.com/103541634/229376589-4d884a82-1b85-483f-b8fc-81bca0e32ad7.png)
 
-![Exemplo de Diagrama de Fluxo](img/diagramafluxo2.jpg)
-
-As referências abaixo irão auxiliá-lo na geração do artefato “Diagramas de Fluxo”.
-
-> **Links Úteis**:
-> - [Fluxograma online: seis sites para fazer gráfico sem instalar nada | Produtividade | TechTudo](https://www.techtudo.com.br/listas/2019/03/fluxograma-online-seis-sites-para-fazer-grafico-sem-instalar-nada.ghtml)
 
 ## Wireframes
 
-![Exemplo de Wireframe](img/wireframe-example.png)
+### Cadastro
 
-São protótipos usados em design de interface para sugerir a estrutura de um site web e seu relacionamentos entre suas páginas. Um wireframe web é uma ilustração semelhante do layout de elementos fundamentais na interface.
- 
-> **Links Úteis**:
-> - [Protótipos vs Wireframes](https://www.nngroup.com/videos/prototypes-vs-wireframes-ux-projects/)
-> - [Ferramentas de Wireframes](https://rockcontent.com/blog/wireframes/)
-> - [MarvelApp](https://marvelapp.com/developers/documentation/tutorials/)
-> - [Figma](https://www.figma.com/)
-> - [Adobe XD](https://www.adobe.com/br/products/xd.html#scroll)
-> - [Axure](https://www.axure.com/edu) (Licença Educacional)
-> - [InvisionApp](https://www.invisionapp.com/) (Licença Educacional)
+Tela em que o usuário vai cadastrar seus dados para acessar o aplicativo, colocando e-mail e senha.
+
+![01-Tela](https://user-images.githubusercontent.com/103541634/229377332-8c869c9b-b66f-462d-bfa3-b65d99f6dded.png)
+
+### Login
+
+Tela de acesso ao aplicativo com e-mail e senha definidos na hora do cadastro.
+
+![02-Tela](https://user-images.githubusercontent.com/103541634/229377475-c239e6a3-efcc-4061-9087-5f03f5f7e440.png)
+
+### Recuperar Senha
+
+Tela para o caso de esquecimento de senha. Usuário deverá colocar o e-mail informado no cadastro para receber uma nova senha.
+
+![03-Tela](https://user-images.githubusercontent.com/103541634/229377604-a98483d8-973b-4860-8959-12cf65e4d589.png)
+
+### Cadastro de conta
+
+O usuário pode adicionar suas contas bancárias ao aplicativo, o que permite que o aplicativo acesse informações de transações e saldos para ajudar a gerenciar as finanças.
+
+![04-Tela](https://user-images.githubusercontent.com/103541634/229377709-d08aaf04-0a85-4145-b8f8-722aa188ba18.png)
+
+### Categorização de despesas
+
+O aplicativo pode categorizar automaticamente as transações em diferentes tipos de despesas, como moradia, transporte, alimentação e lazer.
+
+![05-Tela](https://user-images.githubusercontent.com/103541634/229377819-68b96666-1bcd-472f-b7a7-6436a6bd21ff.png)
+
+### Orçamento
+
+Depois de categorizar as despesas, o aplicativo pode ajudar o usuário a criar um orçamento com base nas despesas categorizadas e nas metas financeiras do usuário.
+
+![06-Tela](https://user-images.githubusercontent.com/103541634/229377864-8deb4333-a1cd-46a6-8f7e-a2d7314726f1.png)
+
+### Alertas e lembretes
+
+O aplicativo pode enviar alertas e lembretes ao usuário sobre pagamentos pendentes, saldos baixos ou outras informações importantes relacionadas às finanças do usuário.
+
+![07-Tela](https://user-images.githubusercontent.com/103541634/229377940-6183c14d-d1a3-4fdc-8563-2523396d9632.png)
+
+### Análise de dados
+
+O aplicativo pode fornecer uma análise dos dados financeiros do usuário, incluindo relatórios de despesas e gráficos de desempenho financeiro ao longo do tempo.
+
+![08-Tela](https://user-images.githubusercontent.com/103541634/229377985-967399db-770e-4a34-a435-4efe9f51acb8.png)

@@ -1,87 +1,81 @@
 
 # Metodologia
 
-<span style="color:red">Pré-requisitos: <a href="2-Especificação do Projeto.md"> Documentação de Especificação</a></span>
+Esta seção descreve como a equipe tratará para desenvolver as soluções para este projeto que foca em soluções para uma educação de controle financeiro. As seções a seguir descrevem os ambientes de trabalho aplicados pela equipe bem como a estrutura utilizada para gerenciar o código-fonte e a definição do processo e da ferramenta pela qual a equipe se organiza.
+Metodologia de trabalho: A equipe está usando a metodologia Agile para gerenciar o desenvolvimento do software. O Agile é uma abordagem iterativa e incremental para o desenvolvimento de software que enfatiza a colaboração entre a equipe, a entrega de software funcionando em intervalos regulares e a resposta às mudanças do projeto. A equipe está usando scrum.
+Ambiente de trabalho: A equipe está usando React Native para desenvolver o software. O React Native é um framework para desenvolvimento de aplicativos móveis multiplataforma que permite o uso de JavaScript e React para criar aplicativos para IOS e Android. 
+Para o gerenciamento das atividades executadas: A equipe também está usando o Git e o GitHub para controle de versão e distribuição de tarefas. O Git é um sistema de controle de versão distribuído que permite que várias pessoas trabalhem em um mesmo código fonte e registrem as alterações. O GitHub é uma plataforma baseada em nuvem para hospedar repositórios Git e gerenciar colaboração em projetos de software. A equipe também está usando o Microsoft Teams para comunicação. O Microsoft Teams é uma plataforma de comunicação baseada em nuvem que permite que a equipe se comunique por chat, vídeo e chamadas de áudio.
 
-Descreva aqui a metodologia de trabalho do grupo para atacar o problema. Definições sobre os ambiente de trabalho utilizados pela  equipe para desenvolver o projeto. Abrange a relação de ambientes utilizados, a estrutura para gestão do código fonte, além da definição do processo e ferramenta através dos quais a equipe se organiza (Gestão de Times).
 
 ## Relação de Ambientes de Trabalho
 
-Os artefatos do projeto são desenvolvidos a partir de diversas plataformas e a relação dos ambientes com seu respectivo propósito deverá ser apresentada em uma tabela que especifica que detalha Ambiente, Plataforma e Link de Acesso. 
-Nota: Vide documento modelo do estudo de caso "Portal de Notícias" e defina também os ambientes e frameworks que serão utilizados no desenvolvimento de aplicações móveis.
+Os dados do projeto são apresentados a partir de diversas plataformas e a relação dos ambientes com seu respectivo propósito é apresentado na tabela que se segue.
+
+![image](https://user-images.githubusercontent.com/103541634/229383830-8a28e30f-a185-41eb-b57a-fa52aba46158.png)
+
 
 ## Controle de Versão
 
-A ferramenta de controle de versão adotada no projeto foi o
-[Git](https://git-scm.com/), sendo que o [Github](https://github.com)
-foi utilizado para hospedagem do repositório.
+A ferramenta de controle de versão adotada no projeto foi o Git , sendo que o Github foi utilizado para hospedagem do repositório.
+O projeto segue a seguinte etiqueta para o nome de branches:
+- main: versão stable já teste do software
+- unstable: versão já testei do software, porém com certeza
+- testing: versão em testes do software
+- dev: versão de desenvolvimento do software
+Para organização e distribuição das tarefas do projeto, a equipe está utilizando o Excel com as seguintes listas:
+- Backlog: com todas as tarefas listadas, cada uma com uma etiqueta indicando a qual sprint pertence.
+- To Do: Esta lista representa o Sprint Backlog. Este é o Sprint atual que estamos trabalhando.
+- Doing: Quando uma tarefa foi iniciada, ela é movida para cá.
+- Test: Checagem de Qualidade. Quando as tarefas forem concluídas, eles serão movidos para o “CQ”. No final da semana, eu revejo essa lista para garantir que tudo saiu perfeito.
+- Done: nesta lista são colocadas as tarefas que passaram pelos testes e controle de qualidade e estão prontas para serem entregues ao usuário. Não há mais edições ou revisões necessárias, ele está agendado e pronto para a ação. Locked: Quando alguma coisa impede a conclusão da tarefa, ela é movida para esta lista junto com um comentário sobre o que está travando a tarefa.
 
-O projeto segue a seguinte convenção para o nome de branches:
+### Quanto à gerência de questões, o projeto adota a seguinte etiqueta para etiquetas:
+- documentation: melhorias ou acréscimos a documentos
+- bug: uma funcionalidade encontra-se com problemas
+- enhancement: uma funcionalidade precisa ser melhorada
+- feature: uma nova funcionalidade precisa ser atendida
 
-- `main`: versão estável já testada do software
-- `unstable`: versão já testada do software, porém instável
-- `testing`: versão em testes do software
-- `dev`: versão de desenvolvimento do software
-
-Quanto à gerência de issues, o projeto adota a seguinte convenção para
-etiquetas:
-
-- `documentation`: melhorias ou acréscimos à documentação
-- `bug`: uma funcionalidade encontra-se com problemas
-- `enhancement`: uma funcionalidade precisa ser melhorada
-- `feature`: uma nova funcionalidade precisa ser introduzida
-
-Discuta como a configuração do projeto foi feita na ferramenta de versionamento escolhida. Exponha como a gerência de tags, merges, commits e branchs é realizada. Discuta como a gerência de issues foi realizada.
-
-> **Links Úteis**:
-> - [Microfundamento: Gerência de Configuração](https://pucminas.instructure.com/courses/87878/)
-> - [Tutorial GitHub](https://guides.github.com/activities/hello-world/)
-> - [Git e Github](https://www.youtube.com/playlist?list=PLHz_AreHm4dm7ZULPAmadvNhH6vk9oNZA)
->  - [Comparando fluxos de trabalho](https://www.atlassian.com/br/git/tutorials/comparing-workflows)
-> - [Understanding the GitHub flow](https://guides.github.com/introduction/flow/)
-> - [The gitflow workflow - in less than 5 mins](https://www.youtube.com/watch?v=1SXpE08hvGs)
 
 ## Gerenciamento de Projeto
 
 ### Divisão de Papéis
 
 Apresente a divisão de papéis entre os membros do grupo.
+A equipe utiliza metodologias ágeis, tendo escolhido o Scrum como base para definição do processo de desenvolvimento. Sendo realizadas reuniões semanais para alinhamento da equipe e entendimento e (re)ordenamento das etapas a serem seguidas. A equipe está organizada da seguinte maneira:
+- Scrum Master: Marcos Guimarães;
+- Product Owner: Marcos Vidal;
+- Equipe de Desenvolvimento: Arthur, Breno, Gilvimar, Marcos Guimarães, Marcos Vidal.
+- Equipe de Design: Arthur, Gilvimar.
 
-Exemplificação: A equipe utiliza metodologias ágeis, tendo escolhido o Scrum como base para definição do processo de desenvolvimento. A equipe está organizada da seguinte maneira:
-- Scrum Master: Felipe Domingos;
-- Product Owner: Rommel Carneiro;
-- Equipe de Desenvolvimento: Pedro Penna, Pedro Ivo, Rodrigo Richard;
-- Equipe de Design: Simone Nogueira.
-
-> **Links Úteis**:
-> - [11 Passos Essenciais para Implantar Scrum no seu Projeto](https://mindmaster.com.br/scrum-11-passos/)
-> - [Scrum em 9 minutos](https://www.youtube.com/watch?v=XfvQWnRgxG0)
-> - [Os papéis do Scrum e a verdade sobre cargos nessa técnica](https://www.atlassian.com/br/agile/scrum/roles)
-
-### Processo
-
-Coloque  informações sobre detalhes da implementação do Scrum seguido pelo grupo. O grupo deverá fazer uso do recurso de gerenciamento de projeto oferecido pelo GitHub, que permite acompanhar o andamento do projeto, a execução das tarefas e o status de desenvolvimento da solução.
- 
-> **Links Úteis**:
-> - [Planejamento e Gestáo Ágil de Projetos](https://pucminas.instructure.com/courses/87878/pages/unidade-2-tema-2-utilizacao-de-ferramentas-para-controle-de-versoes-de-software)
-> - [Sobre quadros de projeto](https://docs.github.com/pt/issues/organizing-your-work-with-project-boards/managing-project-boards/about-project-boards)
-> - [Project management, made simple](https://github.com/features/project-management/)
-> - [Sobre quadros de projeto](https://docs.github.com/pt/github/managing-your-work-on-github/about-project-boards)
-> - [Como criar Backlogs no Github](https://www.youtube.com/watch?v=RXEy6CFu9Hk)
-> - [Tutorial Slack](https://slack.com/intl/en-br/)
 
 ### Ferramentas
 
+As ferramentas do projeto são apresentados a partir de diversas plataformas e a relação dos ambientes com seu respectivo propósito é apresentado na tabela que se segue.
+
+![image](https://user-images.githubusercontent.com/103541634/229384154-d9716411-5653-4bbc-a552-df537db0db14.png)
+
+### Arquitetura Cliente/Servidor
+
+A Arquitetura escolhida para a implementação do projeto foi a Arquitetura Cliente Servidor. As arquiteturas em camadas se tornaram muito predominantes com a popularidade dos sistemas de software cliente-servidor. Em um aplicativo distribuído que usa uma arquitetura cliente-servidor, também conhecida como arquitetura de duas camadas, clientes e servidores se comunicam diretamente. 
+Foi escolhida a arquitetura em duas camadas, onde será utilizado o banco de dados para que seja realizado um pequeno cadastro de usuário para a utilização da Aplicação e será armazenado os dados de controle financeiro da aplicação, mostrando os gastos de forma diária, semanal, mensal, semestral e anual para uma melhor verificação e análise dos controles de gastos.
+
+React Native é uma aplicação ao qual se mostra uma estrutura para construir aplicativos móveis nativos em JavaScript que pode utilizar a biblioteca React JavaScript. O código utilizado no React Native é compilado para componentes nativos na biblioteca de códigos JavaSript. Onde você pode criar aplicativos nativos que pode ser visualizado o que está sendo gerado.
+
+### Ferramentas
 As ferramentas empregadas no projeto são:
+- Editor de código: Visual Studio Community 2022
+- Ferramentas de comunicação: Teams e Whatsapp
+- Ferramenta de gerenciamento: Github/Classroom
+- Ferramentas de desenho de tela ( wireframing ): Miro
+- React Native: é uma estrutura para construir aplicativos móveis nativos em JavaScript usando a biblioteca React JavaScript.
 
-- Editor de código.
-- Ferramentas de comunicação
-- Ferramentas de desenho de tela (_wireframing_)
+O editor de código foi escolhido porque Visual Studio Code ele possui uma integração com o sistema de versionamento. As ferramentas de comunicação utilizadas possuem integração semelhante e por isso foram selecionadas. Por fim, para criar diagramas, utilizamos essa ferramenta para melhor captar as necessidades da nossa solução.
 
-O editor de código foi escolhido porque ele possui uma integração com o sistema de versão. As ferramentas de comunicação utilizadas possuem integração semelhante e por isso foram selecionadas. Por fim, para criar diagramas utilizamos essa ferramenta por melhor captar as necessidades da nossa solução.
 
-Liste quais ferramentas foram empregadas no desenvolvimento do projeto, justificando a escolha delas, sempre que possível.
- 
-> **Possíveis Ferramentas que auxiliarão no gerenciamento**: 
-> - [Slack](https://slack.com/)
-> - [Github](https://github.com/)
+
+
+
+
+
+
+

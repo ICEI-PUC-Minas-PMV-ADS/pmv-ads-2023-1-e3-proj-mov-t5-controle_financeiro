@@ -1,6 +1,6 @@
 # Plano de Testes de Software
 
-## Plano de Testes de Software para Aplicativo de Controle Financeiro
+## Plano de Testes de Software Controle Financeiro
 
 ### Visão Geral
 

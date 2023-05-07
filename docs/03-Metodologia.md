@@ -73,3 +73,25 @@ O editor de código foi escolhido porque Visual Studio Code ele possui uma integ
 
 
 ![grafico](https://user-images.githubusercontent.com/92383852/229385260-0a5d107b-3cce-4f55-a20c-8b3b8cf45a75.png)
+
+OBJETIVOS, METAS E INDICADORES DE DESEMPENHO
+
+
+O objetivo desta etapa do produto será fornecer dados para que possa mensurar os efeitos das etapas já realizados e procurar solucionar eventuais problemas que possam aparecer durante este processo.
+    • Indicar as funcionalidades;
+    • Compreender as funcionalidades;
+    • Desenvolver as funcionalidades;
+    • Testar as funcionalidades;
+    • Entregar as funcionalidades.
+
+Os Indicadores de Desempenho servem pela medir o desempenho do grupo, setor, empresa etc. Onde servem de norteador para que a gestão siga o melhor caminho durante o processo de implementação e execução da aplicação do produto.
+Pensando nisso é necessário que sejam criados métricas e indicadores de desempenho para que seja analisado a capacidade, produtividade e qualidade do produto desenvolvido. Este processo pode ser realizado por meios qualitativos e quantitativos. 
+Servindo para identificar o impacto dos eventuais erros, o tempo médio da solução destes erros encontrados e possíveis melhorias que possam ser implementadas.
+
+Os indicadores que serão utilizados são:
+    • Disponibilidade do Sistema: serve para manter a infraestrutura da aplicação funcionando sem falhas; Mede o tempo de indisponibilidade de sistemas em relação ao tempo total do período. 
+Fórmula:  ((TTP – TIS)/TTP) X 100 
+TIS – Tempo de Indisponibilidade de sistemas
+TTP – Tempo Total do período 
+- Meta: Alcançar 95% durante o ano todo o índice de disponibilidade do Sistema.
+Exemplo:

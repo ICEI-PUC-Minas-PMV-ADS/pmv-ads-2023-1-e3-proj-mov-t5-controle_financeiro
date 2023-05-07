@@ -1,10 +1,10 @@
-Introdução
+# Introdução
 
 Catalogar e testar os requisitos funcionais;
 Indicar e descrever as estratégias que serão empregues no projeto;
 Enumerar os elementos resultantes do plano de teste de software.
 
-Requisitos a Testar
+## Requisitos a Testar
 
 | **Caso de Teste** 	| **CT-01 – Cadastro de usuário** 	|
 |:---:	|:---:	|

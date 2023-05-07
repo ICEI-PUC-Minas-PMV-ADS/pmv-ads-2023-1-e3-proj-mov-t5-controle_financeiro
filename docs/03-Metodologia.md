@@ -95,3 +95,164 @@ TIS – Tempo de Indisponibilidade de sistemas
 TTP – Tempo Total do período 
 - Meta: Alcançar 95% durante o ano todo o índice de disponibilidade do Sistema.
 Exemplo:
+Exemplo:
+
+Disponibilidade do Sistema
+Tempo
+Horas
+Horas
+Horas
+Indisponível
+1
+8
+30
+Total
+24
+168
+720
+Índice
+95,83
+95,24
+95,83
+
+
+
+    • Tempo de Resposta: serve para medir a eficiência da equipe de atendimento ao suporte da aplicação quanto menor o tempo melhor.
+Fórmula: EDD = DE / (DE+DU) x 100
+EDD – Eficiência Detecção dos Defeitos
+DE – Defeitos encontrados pela Equipe
+DU– Defeitos reportados pelos Usuários
+Meta: Alcançar durante o ano o índice maior que 80% 
+
+Eficiência
+Defeitos
+Mês 1
+Mês 2
+Mês 4
+Equipe
+10
+8
+6
+Usuários
+2
+2
+1
+Índice
+83,33
+80,00
+85,71
+
+
+
+    • Tempo de Falhas: O Tempo Médio Entre Falhas indica os intervalos de tempo entre uma falha e outra. 
+Fórmula: TF= TO/NF
+TF – Tempo de Falha
+TO – Tempo de Operação
+NF – Número de Falhas
+Meta: Alcançar Zero Falhas durante o Mês.
+Exmeplo:
+Tempo de Falhas
+
+Janeiro
+Fevereiro
+Março
+Abril
+Maio
+Junho
+Julho
+Agosto
+Setembro
+Outubro
+Novembro
+Dezembro
+Operação
+31
+28
+31
+30
+31
+30
+31
+31
+30
+31
+30
+31
+Falhas
+1
+0
+0
+2
+1
+0
+0
+0
+1
+3
+1
+0
+
+
+
+    • Satisfação do Usuário: serve para medir a satisfação do usuário para a aplicação, ele demostrará se a aplicação está de fácil entendimento ou não, 
+Meta: Alcançar o percentual de 90% de classificação de Bom e/ou Muito Bom.
+      Exemplo: 
+Satisfação do Usuário
+Classificação
+Usuários
+( %) 
+Muito Ruim
+5
+6,67
+Ruim 
+10
+13,33
+Regular
+3
+4,00
+Bom
+27
+36,00
+Muito Bom
+30
+40,00
+Total
+75
+100,00
+
+
+    • Qualidade dos Serviços: serve para obter o retorno dos usuários quanto ao funcionamento da aplicação.
+Meta: Alcançar em todos os Índices de qualidade do Serviço de Bom e/ou Muito Bom (acima de 6)
+Exemplo:
+Qualidade dos Serviços
+Usuários
+Rapidez na solução
+Atendimento
+Pontualidade
+Produto Final
+A
+1,5
+7,5
+9,5
+7,5
+B
+3,5
+7,5
+9,5
+9,5
+C
+5,5
+9,5
+9,5
+7,5
+D
+7,5
+9,5
+7,5
+9,5
+E
+9,5
+7,5
+6,5
+9,5
+Índice de Satisfação (0-2 Muito Ruim); (2-4 Ruim); (4-6 regular); (6-8 Bom); (8-10 Muito Bom)

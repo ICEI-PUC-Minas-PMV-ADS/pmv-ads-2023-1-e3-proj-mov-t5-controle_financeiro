@@ -1,11 +1,40 @@
-# Plano de Testes de Usabilidade
+## Plano de Testes de Usabilidade para Aplicativo de Controle Financeiro
 
-O teste de usabilidade permite avaliar a qualidade da interface com o usuário da aplicação interativa. O Plano de Testes de Software é gerado a partir da especificação do sistema e consiste em casos de testes que deverão ser executados quando a implementação estiver parcial ou totalmente pronta.
+### Objetivo
 
-As referências abaixo irão auxiliá-lo na geração do artefato "Plano de Testes de Usabilidade".
+Este plano de testes tem como objetivo verificar a usabilidade do aplicativo de controle financeiro em relação à sua facilidade de uso, eficiência e satisfação do usuário.
 
-> **Links Úteis**:
-> - [Teste De Usabilidade: O Que É e Como Fazer Passo a Passo (neilpatel.com)](https://neilpatel.com/br/blog/teste-de-usabilidade/)
-> - [Teste de usabilidade: tudo o que você precisa saber! | by Jon Vieira | Aela.io | Medium](https://medium.com/aela/teste-de-usabilidade-o-que-voc%C3%AA-precisa-saber-39a36343d9a6/)
-> - [Planejando testes de usabilidade: o que (e o que não) fazer | iMasters](https://imasters.com.br/design-ux/planejando-testes-de-usabilidade-o-que-e-o-que-nao-fazer/)
-> - [Ferramentas de Testes de Usabilidade](https://www.usability.gov/how-to-and-tools/resources/templates.html)
+### Escopo
+
+Os testes serão realizados nas principais funcionalidades do aplicativo, incluindo o cadastro de contas bancárias, despesas e receitas, consulta de extratos bancários e geração de relatórios financeiros.
+
+### Critérios de Aceitação
+
+Os critérios de aceitação serão baseados nas diretrizes de usabilidade e experiência do usuário, incluindo facilidade de uso, eficiência, satisfação do usuário, clareza e consistência da interface, entre outros.
+
+### Casos de Teste
+
+| Caso de Teste | Etapas | Resultado Esperado | Critérios de Aceitação |
+| --- | --- | --- | --- |
+| Navegação | Navegar pelo aplicativo | Navegação intuitiva e fácil | Os usuários devem conseguir navegar pelo aplicativo sem dificuldades |
+| Cadastro de Contas Bancárias | Cadastrar nova conta bancária | Cadastramento fácil e intuitivo | Os usuários devem conseguir cadastrar novas contas bancárias sem dificuldades |
+| Cadastro de Despesas e Receitas | Cadastrar nova despesa ou receita | Cadastramento fácil e intuitivo | Os usuários devem conseguir cadastrar novas despesas e receitas sem dificuldades |
+| Consulta de Extratos Bancários | Consultar extrato bancário de uma conta | Informação clara e organizada | Os usuários devem conseguir visualizar o extrato bancário de uma conta de forma clara e organizada |
+| Geração de Relatórios Financeiros | Gerar relatório de despesas e receitas | Geração rápida e fácil | Os usuários devem conseguir gerar relatórios financeiros de forma rápida e fácil |
+| Design e Layout | Avaliar o design e layout do aplicativo | Design e layout atraentes e organizados | Os usuários devem considerar o design e layout do aplicativo atraentes e organizados |
+
+### Métricas
+
+As métricas para avaliar a usabilidade do aplicativo incluem tempo de conclusão de tarefas, número de erros cometidos pelos usuários, taxa de abandono, satisfação do usuário e feedback geral.
+
+### Ambiente de Teste
+
+Os testes serão realizados em um ambiente de teste controlado, utilizando dispositivos móveis com as plataformas iOS e Android.
+
+### Cronograma
+
+Os testes serão realizados em um período de duas semanas, com um grupo de 20 usuários selecionados aleatoriamente.
+
+### Responsabilidades
+
+A equipe de teste será responsável por planejar, executar e documentar os testes de usabilidade. A equipe de desenvolvimento será responsável por corrigir quaisquer problemas de usabilidade identificados durante os testes.

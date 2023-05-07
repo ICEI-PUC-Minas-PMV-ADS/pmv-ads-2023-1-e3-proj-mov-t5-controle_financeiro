@@ -15,11 +15,7 @@ O diagrama de classes ilustra graficamente como será a estrutura do software, e
 
 ## Modelo ER
 
-O Modelo ER representa através de um diagrama como as entidades (coisas, objetos) se relacionam entre si na aplicação interativa.]
-
-As referências abaixo irão auxiliá-lo na geração do artefato “Modelo ER”.
-
-> - [Como fazer um diagrama entidade relacionamento | Lucidchart](https://www.lucidchart.com/pages/pt/como-fazer-um-diagrama-entidade-relacionamento)
+![Modelo ER drawio](https://user-images.githubusercontent.com/103541634/236672121-895774b7-d291-468d-9a5e-52eb82e63b94.png)
 
 ## Esquema Relacional
 
@@ -37,14 +33,11 @@ Apresente também uma figura explicando como as tecnologias estão relacionadas 
 
 ## Hospedagem
 
-Explique como a hospedagem e o lançamento da plataforma foi feita.
+O modelo físico do projeto encontra-se em um arquivo banco.sql hospedado no GitHub.
 
-> **Links Úteis**:
->
-> - [Website com GitHub Pages](https://pages.github.com/)
-> - [Programação colaborativa com Repl.it](https://repl.it/)
-> - [Getting Started with Heroku](https://devcenter.heroku.com/start)
-> - [Publicando Seu Site No Heroku](http://pythonclub.com.br/publicando-seu-hello-world-no-heroku.html)
+## Tecnologias Utilizadas
+
+![Tecnologias Utilizadas drawio](https://user-images.githubusercontent.com/103541634/236672878-f634bc65-5019-44cd-a18a-21e9d6b24278.png)
 
 ## Qualidade de Software
 

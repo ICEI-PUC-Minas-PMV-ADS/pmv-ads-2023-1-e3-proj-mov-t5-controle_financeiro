@@ -22,6 +22,9 @@
 
   Pessoas ou empresas que precisem de uma ferramenta para gerenciar suas finanças de forma eficiente e organizada.
 
-## realtori
+## Relatório de dados
+  Os teste realizados serão feito através dos usuários utilizando a aplicação em seu computador ou dispositivo mobile.
+  
+  
 
 

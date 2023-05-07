@@ -13,6 +13,7 @@ O diagrama de classes ilustra graficamente como será a estrutura do software, e
 ![Diagrama de Classes drawio](https://user-images.githubusercontent.com/103541634/236666914-90a12d1d-1c6d-4341-8c9b-c485cbe4acab.png)
 
 
+
 ## Modelo ER
 
 O Modelo ER representa através de um diagrama como as entidades (coisas, objetos) se relacionam entre si na aplicação interativa.]

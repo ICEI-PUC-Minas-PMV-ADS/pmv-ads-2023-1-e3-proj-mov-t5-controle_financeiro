@@ -117,6 +117,8 @@ Exemplo:
 ![tempo de falhas](https://user-images.githubusercontent.com/92383852/236690370-81648e70-d636-4e7a-ae3c-2e270e7004d0.png)
 
     • Satisfação do Usuário: serve para medir a satisfação do usuário para a aplicação, ele demostrará se a aplicação está de fácil entendimento ou não, 
+    
+    
 Meta: Alcançar o percentual de 90% de classificação de Bom e/ou Muito Bom.
       Exemplo: 
       ![tab satisfacao usuario](https://user-images.githubusercontent.com/92383852/236690451-7aaf46bf-8c68-4c33-baee-89d5c3797c5b.png)

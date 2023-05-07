@@ -17,3 +17,11 @@
 |RF-009| Analisar possiveis erros no sistema de busca utilizado pelo usuário|
 |RF-010| Compreender as dificuldades do usuário em utilizar a edição de meses anteriores|
 |RF-011| Analisar se o sistema apresenta ma tela comparando todos os usuários da plataforma e suas despesas deixando em valores percentuais|
+
+## Perfil de usuários
+
+  Pessoas ou empresas que precisem de uma ferramenta para gerenciar suas finanças de forma eficiente e organizada.
+
+## realtori
+
+

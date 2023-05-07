@@ -23,7 +23,7 @@ O diagrama de classes ilustra graficamente como será a estrutura do software, e
 
 ## Modelo Físico
 
-Entregar um arquivo banco.sql contendo os scripts de criação das tabelas do banco de dados. Este arquivo deverá ser incluído dentro da pasta src\bd.
+O modelo físico do projeto encontra-se em um arquivo banco.sql hospedado no GitHub
 
 ## Tecnologias Utilizadas
 

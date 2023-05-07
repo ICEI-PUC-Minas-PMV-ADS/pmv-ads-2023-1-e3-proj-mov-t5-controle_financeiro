@@ -25,6 +25,17 @@
 ## Relatório de dados
   Os teste realizados serão feito através dos usuários utilizando a aplicação em seu computador ou dispositivo mobile.
   
+## Testes
+  O sistema de teste funcionará na seguinte forma na coleta de dados através dos erros obtidos pelo o usuário da aplicação.
   
+  
+  
+  |Caso de teste | Objetivo | Possíveis erros|
+|------|-----------------------------------------|----------------------------------------|
+|CT-01| Usuárioa acessar a aplicação através do seu login ou cadastramento de um conta nova |• Aplicação não identifica o usuário e apresenta erro na tela de Login;<br> • Aplicação não conclui o cadastro do usuário.|
+|CT-02| Sistema de busca  | • Sistema acusa que não possui resultado mesmo existindo resultado para o termo pesquisado; <br> • Sistema apresenta resultado para a busca mas o resultado é incompatível para o que foi buscado.|
+|CT-03| Adicionar receita|•Aplicação não aceita uma moeda diferente do REAL;<br> • Sistema não retorna mensagem que um novo valor de receita foi adicionado.|
+
+
 
 

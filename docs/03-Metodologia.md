@@ -74,3 +74,56 @@ O editor de código foi escolhido porque Visual Studio Code ele possui uma integ
 
 ![grafico](https://user-images.githubusercontent.com/92383852/229385260-0a5d107b-3cce-4f55-a20c-8b3b8cf45a75.png)
 
+###  OBJETIVOS, METAS E INDICADORES DE DESEMPENHO
+O objetivo desta etapa do produto será fornecer dados para que possa mensurar os efeitos das etapas já realizados e procurar solucionar eventuais problemas que possam aparecer durante este processo.
+    • Indicar as funcionalidades;
+    • Compreender as funcionalidades;
+    • Desenvolver as funcionalidades;
+    • Testar as funcionalidades;
+    • Entregar as funcionalidades.
+
+Os Indicadores de Desempenho servem pela medir o desempenho do grupo, setor, empresa etc. Onde servem de norteador para que a gestão siga o melhor caminho durante o processo de implementação e execução da aplicação do produto.
+Pensando nisso é necessário que sejam criados métricas e indicadores de desempenho para que seja analisado a capacidade, produtividade e qualidade do produto desenvolvido. Este processo pode ser realizado por meios qualitativos e quantitativos. 
+Servindo para identificar o impacto dos eventuais erros, o tempo médio da solução destes erros encontrados e possíveis melhorias que possam ser implementadas.
+
+Os indicadores que serão utilizados são:
+    • Disponibilidade do Sistema: serve para manter a infraestrutura da aplicação funcionando sem falhas; Mede o tempo de indisponibilidade de sistemas em relação ao tempo total do período. 
+Fórmula:  ((TTP – TIS)/TTP) X 100 
+TIS – Tempo de Indisponibilidade de sistemas
+TTP – Tempo Total do período 
+- Meta: Alcançar 95% durante o ano todo o índice de disponibilidade do Sistema.
+Exemplo:
+![tab diponibilidade](https://user-images.githubusercontent.com/92383852/236690130-593314bb-ae29-425e-bbfb-b616d48da173.png)
+![diponibilidade do Sistema](https://user-images.githubusercontent.com/92383852/236690150-955548e7-648c-44be-9d7a-6e7b2d3393b5.png)
+    • Tempo de Resposta: serve para medir a eficiência da equipe de atendimento ao suporte da aplicação quanto menor o tempo melhor.
+Fórmula: EDD = DE / (DE+DU) x 100
+EDD – Eficiência Detecção dos Defeitos
+DE – Defeitos encontrados pela Equipe
+DU– Defeitos reportados pelos Usuários
+Meta: Alcançar durante o ano o índice maior que 80% 
+![tab eficiencia](https://user-images.githubusercontent.com/92383852/236690243-4b951c30-264a-4962-ba53-9995c71376bb.png)
+![Eficiencia](https://user-images.githubusercontent.com/92383852/236690268-4711df47-321e-4154-adb6-a94b70bfae4e.png)
+    • Tempo de Falhas: O Tempo Médio Entre Falhas indica os intervalos de tempo entre uma falha e outra. 
+Fórmula: TF= TO/NF
+TF – Tempo de Falha
+TO – Tempo de Operação
+NF – Número de Falhas
+Meta: Alcançar Zero Falhas durante o Mês.
+Exemplo:
+![tab tempo de falhas](https://user-images.githubusercontent.com/92383852/236690351-6ef80a2b-6216-4833-97c6-b23d524ab300.png)
+![tempo de falhas](https://user-images.githubusercontent.com/92383852/236690370-81648e70-d636-4e7a-ae3c-2e270e7004d0.png)
+
+    • Satisfação do Usuário: serve para medir a satisfação do usuário para a aplicação, ele demostrará se a aplicação está de fácil entendimento ou não, 
+Meta: Alcançar o percentual de 90% de classificação de Bom e/ou Muito Bom.
+      Exemplo: 
+      ![tab satisfacao usuario](https://user-images.githubusercontent.com/92383852/236690451-7aaf46bf-8c68-4c33-baee-89d5c3797c5b.png)
+
+![Satisfação](https://user-images.githubusercontent.com/92383852/236690476-f183c4ac-e2c4-4744-b83d-d01733e881c7.png)
+
+    • Qualidade dos Serviços: serve para obter o retorno dos usuários quanto ao funcionamento da aplicação.
+Meta: Alcançar em todos os Índices de qualidade do Serviço de Bom e/ou Muito Bom (acima de 6)
+Exemplo:
+![tab qualidade serviço](https://user-images.githubusercontent.com/92383852/236690549-98b065a1-ea37-4f55-9413-260d52b3e785.png)
+
+![Qulidade dos Serviços](https://user-images.githubusercontent.com/92383852/236690575-57e4b89b-4e6c-45c7-9054-ab34610fd336.png)
+

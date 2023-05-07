@@ -95,7 +95,9 @@ TTP – Tempo Total do período
 Exemplo:
 ![tab diponibilidade](https://user-images.githubusercontent.com/92383852/236690130-593314bb-ae29-425e-bbfb-b616d48da173.png)
 ![diponibilidade do Sistema](https://user-images.githubusercontent.com/92383852/236690150-955548e7-648c-44be-9d7a-6e7b2d3393b5.png)
+
     • Tempo de Resposta: serve para medir a eficiência da equipe de atendimento ao suporte da aplicação quanto menor o tempo melhor.
+   
 Fórmula: EDD = DE / (DE+DU) x 100
 EDD – Eficiência Detecção dos Defeitos
 DE – Defeitos encontrados pela Equipe
@@ -103,6 +105,7 @@ DU– Defeitos reportados pelos Usuários
 Meta: Alcançar durante o ano o índice maior que 80% 
 ![tab eficiencia](https://user-images.githubusercontent.com/92383852/236690243-4b951c30-264a-4962-ba53-9995c71376bb.png)
 ![Eficiencia](https://user-images.githubusercontent.com/92383852/236690268-4711df47-321e-4154-adb6-a94b70bfae4e.png)
+
     • Tempo de Falhas: O Tempo Médio Entre Falhas indica os intervalos de tempo entre uma falha e outra. 
 Fórmula: TF= TO/NF
 TF – Tempo de Falha

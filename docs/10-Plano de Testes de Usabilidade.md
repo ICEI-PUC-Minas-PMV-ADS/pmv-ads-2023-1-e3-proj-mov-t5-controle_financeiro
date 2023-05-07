@@ -1,4 +1,4 @@
-## Plano de Testes de Usabilidade para Aplicativo de Controle Financeiro
+## Plano de Testes de Usabilidade para Controle Financeiro
 
 ### Objetivo
 

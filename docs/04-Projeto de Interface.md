@@ -16,50 +16,32 @@ O fluxo de usuário (User Flow) mostra como o será a navegação do usuário pe
 
 ## Wireframes
 
-### Cadastro
-
-Tela em que o usuário vai cadastrar seus dados para acessar o aplicativo, colocando e-mail e senha.
-
-![01-Tela](https://user-images.githubusercontent.com/103541634/229377332-8c869c9b-b66f-462d-bfa3-b65d99f6dded.png)
-
 ### Login
 
 Tela de acesso ao aplicativo com e-mail e senha definidos na hora do cadastro.
 
-![02-Tela](https://user-images.githubusercontent.com/103541634/229377475-c239e6a3-efcc-4061-9087-5f03f5f7e440.png)
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e3-proj-mov-t5-controle_financeiro/assets/103541634/c32fa9ba-568b-4862-8830-34e748037708)
 
-### Recuperar Senha
-
-Tela para o caso de esquecimento de senha. Usuário deverá colocar o e-mail informado no cadastro para receber uma nova senha.
-
-![03-Tela](https://user-images.githubusercontent.com/103541634/229377604-a98483d8-973b-4860-8959-12cf65e4d589.png)
-
-### Cadastro de conta
+### Cadastro Conta Bancária
 
 O usuário pode adicionar suas contas bancárias ao aplicativo, o que permite que o aplicativo acesse informações de transações e saldos para ajudar a gerenciar as finanças.
 
-![04-Tela](https://user-images.githubusercontent.com/103541634/229377709-d08aaf04-0a85-4145-b8f8-722aa188ba18.png)
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e3-proj-mov-t5-controle_financeiro/assets/103541634/059a0bf9-8c5d-4b15-84af-2b44b0c00d5e)
 
 ### Categorização de despesas
 
-O aplicativo pode categorizar automaticamente as transações em diferentes tipos de despesas, como moradia, transporte, alimentação e lazer.
+O aplicativo categoriza as transações em diferentes tipos de despesas, como moradia, transporte, alimentação e lazer.
 
-![05-Tela](https://user-images.githubusercontent.com/103541634/229377819-68b96666-1bcd-472f-b7a7-6436a6bd21ff.png)
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e3-proj-mov-t5-controle_financeiro/assets/103541634/1371fb10-97b9-4f05-b1a6-1607cd09586e)
 
 ### Orçamento
 
 Depois de categorizar as despesas, o aplicativo pode ajudar o usuário a criar um orçamento com base nas despesas categorizadas e nas metas financeiras do usuário.
 
-![06-Tela](https://user-images.githubusercontent.com/103541634/229377864-8deb4333-a1cd-46a6-8f7e-a2d7314726f1.png)
-
-### Alertas e lembretes
-
-O aplicativo pode enviar alertas e lembretes ao usuário sobre pagamentos pendentes, saldos baixos ou outras informações importantes relacionadas às finanças do usuário.
-
-![07-Tela](https://user-images.githubusercontent.com/103541634/229377940-6183c14d-d1a3-4fdc-8563-2523396d9632.png)
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e3-proj-mov-t5-controle_financeiro/assets/103541634/6728b71a-2a48-482b-9426-90fb68993a87)
 
 ### Análise de dados
 
-O aplicativo pode fornecer uma análise dos dados financeiros do usuário, incluindo relatórios de despesas e gráficos de desempenho financeiro ao longo do tempo.
+O aplicativo pode fornecer uma análise dos dados financeiros do usuário, incluindo relatórios de despesas.
 
-![08-Tela](https://user-images.githubusercontent.com/103541634/229377985-967399db-770e-4a34-a435-4efe9f51acb8.png)
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e3-proj-mov-t5-controle_financeiro/assets/103541634/092b3a4d-d642-48fe-83b4-ef224881cf98)

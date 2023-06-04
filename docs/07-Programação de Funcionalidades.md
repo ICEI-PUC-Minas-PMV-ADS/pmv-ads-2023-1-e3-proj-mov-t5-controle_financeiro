@@ -1,15 +1,6 @@
-# Programação de Funcionalidades
-
-<span style="color:red">Pré-requisitos: <a href="2-Especificação do Projeto.md"> Especificação do Projeto</a></span>, <a href="3-Projeto de Interface.md"> Projeto de Interface</a>, <a href="4-Metodologia.md"> Metodologia</a>, <a href="3-Projeto de Interface.md"> Projeto de Interface</a>, <a href="5-Arquitetura da Solução.md"> Arquitetura da Solução</a>
-
-Implementação do sistema descritas por meio dos requisitos funcionais e/ou não funcionais. Deve relacionar os requisitos atendidos os artefatos criados (código fonte) além das estruturas de dados utilizadas e as instruções para acesso e verificação da implementação que deve estar funcional no ambiente de hospedagem.
-
-Para cada requisito funcional, pode ser entregue um artefato desse tipo
-
-> **Links Úteis**:
->
-> - [Trabalhando com HTML5 Local Storage e JSON](https://www.devmedia.com.br/trabalhando-com-html5-local-storage-e-json/29045)
-> - [JSON Tutorial](https://www.w3resource.com/JSON)
-> - [JSON Data Set Sample](https://opensource.adobe.com/Spry/samples/data_region/JSONDataSetSample.html)
-> - [JSON - Introduction (W3Schools)](https://www.w3schools.com/js/js_json_intro.asp)
-> - [JSON Tutorial (TutorialsPoint)](https://www.tutorialspoint.com/json/index.htm)
+![WhatsApp Image 2023-06-04 at 19 58 10 (3)](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e3-proj-mov-t5-controle_financeiro/assets/92383852/d572b037-becf-4170-8a3e-d5500bd2ca45)
+![WhatsApp Image 2023-06-04 at 19 58 10 (4)](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e3-proj-mov-t5-controle_financeiro/assets/92383852/1a043340-d2d3-4830-9515-f4e85d5f9ec0)
+![WhatsApp Image 2023-06-04 at 19 58 10](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e3-proj-mov-t5-controle_financeiro/assets/92383852/6beb6689-1c28-4b94-ba5f-daab6416638a)
+![WhatsApp Image 2023-06-04 at 19 58 09](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e3-proj-mov-t5-controle_financeiro/assets/92383852/dcbe14a0-cc20-4e0a-9f32-e71f45b96e8d)
+![WhatsApp Image 2023-06-04 at 19 58 10 (1)](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e3-proj-mov-t5-controle_financeiro/assets/92383852/39d17ade-81f2-4d52-a49b-abc87f729f21)
+![WhatsApp Image 2023-06-04 at 19 58 10 (2)](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e3-proj-mov-t5-controle_financeiro/assets/92383852/cf617137-f7a2-4808-b323-8961316ba716)
